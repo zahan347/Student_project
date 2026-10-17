@@ -1,0 +1,11 @@
+ body
+{
+ text-align: center;
+ align-items: center;
+}
+.box
+{
+ text-align: center;
+ padding: 20px;
+ margin: 5px;
+}
